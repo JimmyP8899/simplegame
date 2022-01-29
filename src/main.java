@@ -1,7 +1,7 @@
 //Jimmy Peng
 import java.util.*;
-import java.util.concurrent.TimeUnit; // adds concurrent.TimeUnit library
-public class main {dksjfldskjlfsdkjflsdkj
+import java.util.concurrent.TimeUnit; //adds time library
+public class main {
     public static void main(String[] args) throws InterruptedException {
         terrain[][] terrain = new terrain[10][50];
         Random rand = new Random();
