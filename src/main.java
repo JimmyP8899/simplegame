@@ -1,6 +1,6 @@
 //Jimmy Peng
-import java.util.*; // util library added
-import java.util.concurrent.TimeUnit; //time library added
+import java.util.*; 
+import java.util.concurrent.TimeUnit; // added time library
 public class main {
     public static void main(String[] args) throws InterruptedException {
         terrain[][] terrain = new terrain[10][50];
